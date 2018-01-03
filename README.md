@@ -1,5 +1,5 @@
-#Practice_git
-how to make table...
+# Practice_Git and editing the markdown file
+how to make table and add the image in markdown file<br>
 <img src = "img/random.jpg" alt = "random meme"></img>
 <table>
     <tr>
