@@ -1,6 +1,6 @@
 #Practice_git
 how to make table...
-
+<img src = "img/random.jpg" alt = "random meme"></img>
 <table>
     <tr>
         <th>tasks</th>
